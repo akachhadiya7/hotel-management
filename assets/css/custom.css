@@ -1,0 +1,24 @@
+.iti--separate-dial-code .iti__selected-flag{
+    pointer-events: none;
+}
+.iti__flag.iti__in, .iti__arrow{
+    display:none;
+}
+.iti input[type="text"]{
+    padding-left: 60px!important;
+}
+input.is-invalid{
+    border-color: #ff0000;
+}
+.iti{
+    width: 100%;
+}
+.view_patient .patient_lists_wrap .patient-body{
+    margin: 0px!important;
+}
+#patient-form table{
+    max-width: 600px;
+}
+#patient-form table tr td input, #patient-form table tr td select{
+    width: 100%;
+}
